@@ -1,0 +1,16 @@
+li {
+
+  font-style: italic;
+
+}
+
+.flashy {
+  color: red;
+  font-style: italic;
+
+}
+.best {
+  font-style: oblique;
+  font-weight: bold;
+  color: green
+}
